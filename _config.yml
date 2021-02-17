@@ -4,10 +4,8 @@ description:        A Blog Theme by Start Bootstrap
 author:             iamshacky
 baseurl:            ""
 <<<<<<< HEAD
-url:                "https://iamshacky.github.io"
-=======
-url:                "iamshackysite2"
->>>>>>> ef80e604ba3b6469e0141d9567b86a08b34ea23d
+url:                "https://iamshacky_2.github.io"
+
 
 # Social Profiles
 twitter_username:   
