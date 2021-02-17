@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              The dataslice demo
+email:              shackcentral2@gmail.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             iamshacky
+baseurl:            ""
+url:                "https://iamshacky.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    iamshacky
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
@@ -23,3 +23,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# themes
+theme: jekyll-theme-clean-blog
+
+# incremental
+incremental: true
