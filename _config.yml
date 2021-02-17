@@ -2,8 +2,8 @@ title:              The dataslice demo
 email:              shackcentral2@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             iamshacky
-baseurl:            ""
-url:                "/"
+baseurl:            "iamshacky_site2"
+url:                ""
 
 # Social Profiles
 twitter_username:   
