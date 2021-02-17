@@ -4,7 +4,8 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
 baseurl: ""
-url:                "https://iamshacky.github.io"
+#url:                "https://iamshacky.github.io"
+url: ""
 
 # Social Profiles
 twitter_username:   SBootstrap
