@@ -3,7 +3,6 @@ email:              shackcentral2@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             iamshacky
 baseurl:            ""
-<<<<<<< HEAD
 url:                "https://iamshacky_2.github.io"
 
 
@@ -25,6 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+highlighter: rouge
 
 # themes
 theme: jekyll-theme-clean-blog
