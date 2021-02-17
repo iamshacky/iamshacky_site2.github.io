@@ -1,7 +1,9 @@
 # Note: I cloned this to follow a tutorial.
-I messed up some of my copy (this project). Probably best to get yourself a fresh copy from the original source.
+- I messed up some of my copy (this project). Probably best to get yourself a fresh copy from the original source.
+- What is messed up is the stylesheet doesn't work and the url repeats like: iamshacky_site2.github.io/iamshacky_site2
+- I did put some notes about installing and note about possible error message though in a docs folder that I created.
 
-
+---
 
 # [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) - Official Jekyll Version
 
